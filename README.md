@@ -1,2 +1,2 @@
 # mastermind
-Object Oriented Mastermind Game (in Java) 
+Object Oriented Mastermind Game (Software Design and Implementation II -- Java) 
